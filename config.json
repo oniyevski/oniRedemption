@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "rdr_path": "",
+        "shield_password": null,
+        "shield_status": false,
+        "discord_shield_password_view": false,
+        "language": "tr",
+        "sound_effects": true,
+        "task_completed_effect": true,
+        "discord_integration": true
+    }
+}
