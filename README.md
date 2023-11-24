@@ -21,8 +21,9 @@
 <a href="ühttps://github.com/oniyevski/oniRedemption/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/oniyevski/oniRedemption?color=yellow"></a>
 <a href="https://github.com/oniyevski/oniRedemption/pulls"><img src="https://img.shields.io/github/issues-pr/oniyevski/oniRedemption?color=brightgreen"></a>
 <a href="https://github.com/oniyevski/oniRedemption/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/oniyevski/oniRedemption?color=0059b3"></a> 
-
 </div>
+
+
 <br>
 <br>
 
