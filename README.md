@@ -32,6 +32,7 @@ Python Version > 3.6  [i recommend](https://www.python.org/downloads/release/pyt
 
 
 <br>
+<br>
 
 
 ## 👷HOW TO USE IT (OPEN-SOURCE) ? 
@@ -44,8 +45,19 @@ Python Version > 3.6  [i recommend](https://www.python.org/downloads/release/pyt
 pip install -r requirements.txt
 ```
 
-**3.** Let's run the project, for example:
+**3.** Sample command for you if you want to build the project yourself.:
 
 ```terminal
 flet pack main.py --name oniRedemption --add-data "assets;assets"
 ```
+
+
+<br>
+<br>
+
+
+## 👷HOW TO USE IT (BUILD) ? 
+
+**1.** Download [this](https://github.com/oniyevski/oniRedemption/releases) build.
+
+**2.** Follow the instructions and perform the installation.
