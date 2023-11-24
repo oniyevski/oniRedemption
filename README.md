@@ -1,7 +1,17 @@
 # oniRedemption
 ✨ Red Dead Redemption 2 solo lobby, shield and gold timer. ✌️
 
+
+<br>
+<br>
+
+
 <h1 align="center">oniRedemption</h1> 
+
+
+<br>
+<br>
+
 
 <div align="center">
 <a href="https://github.com/topics/html"><img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%23E34F26.svg?&style=for-the-badge"/></a>
@@ -26,6 +36,7 @@
 
 <br>
 <br>
+
 
 ## 📌 REQUIRED
 
