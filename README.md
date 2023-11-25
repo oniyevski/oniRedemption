@@ -31,6 +31,18 @@
 <a href="ühttps://github.com/oniyevski/oniRedemption/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/oniyevski/oniRedemption?color=yellow"></a>
 <a href="https://github.com/oniyevski/oniRedemption/pulls"><img src="https://img.shields.io/github/issues-pr/oniyevski/oniRedemption?color=brightgreen"></a>
 <a href="https://github.com/oniyevski/oniRedemption/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/oniyevski/oniRedemption?color=0059b3"></a> 
+
+
+<br>
+<br>
+
+
+## 📌 IMAGES
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/home.png?raw=true)
+
+<br>
+<br>
 </div>
 
 
@@ -41,7 +53,8 @@
 ## 📌 REQUIRED
 
 Python Version > 3.6  [i recommend](https://www.python.org/downloads/release/python-386/).
-
+Windows Operating System 
+Red Dead Redemption 2 PC version.
 
 <br>
 <br>
