@@ -39,7 +39,7 @@
 
 ## 📌 IMAGES
 
-![alt text](https://raw.githubusercontent.com/oniyevski/oniRedemption/blob/main/images/home.png)
+![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/home.png?raw=true)
 
 <br>
 <br>
