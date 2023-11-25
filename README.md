@@ -37,7 +37,7 @@
 <br>
 
 
-## 📌 IMAGES
+## 🖼️ IMAGES
 
 ![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/home.png?raw=true)
 ![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/minute_select.png?raw=true)
