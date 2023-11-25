@@ -25,7 +25,7 @@ class Header:
                     weight=FontWeight.BOLD
                 ),
                 Text(
-                    "v1.0",
+                    "v1.0.1",
                     color=WHITE,
                     size=20,
                     weight=FontWeight.BOLD
