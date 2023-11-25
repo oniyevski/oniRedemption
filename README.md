@@ -57,7 +57,7 @@ Python Version > 3.6  [i recommend](https://www.python.org/downloads/release/pyt
 pip install -r requirements.txt
 ```
 
-**3.** Sample command for you if you want to build the project yourself.:
+**3.** Sample command for you if you want to build the project yourself:
 
 ```terminal
 flet pack main.py --name oniRedemption --add-data "assets;assets"
