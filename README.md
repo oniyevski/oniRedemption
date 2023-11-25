@@ -42,7 +42,7 @@
 ![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/home.png?raw=true)
 ![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/minute_select.png?raw=true)
 ![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/shield.png?raw=true)
-![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/shield.png?raw=true)
+![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/settings.png?raw=true)
 ![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/rpc_1.png?raw=true)
 ![alt text](https://github.com/oniyevski/oniRedemption/blob/main/images/rpc_2.png?raw=true)
 <br>
